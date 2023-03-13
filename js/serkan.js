@@ -1,2 +1,0 @@
-selamlar
-wffw
