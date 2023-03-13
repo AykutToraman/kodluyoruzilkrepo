@@ -3,6 +3,10 @@ Bu repo [Kodluyoruz](https:/kodluyoruz.org) Front-End Eğitimi kapsamında yapı
 ## ***Bu repo çerisinde;*** 
 * Bir adet **README** dosyası, 
 * Bir adet de *index.html* barındırıyor.
+
+[patika profilim](https://app.patika.dev/aykuttoraman)
+
+
 ---
 
 ![Aslan](https://www.reboundistanbul.com/uploads/sayfa-resimleri/profesyonel-logo-tasarimi_589_orijinal.jpeg)
@@ -11,5 +15,5 @@ Bu repo [Kodluyoruz](https:/kodluyoruz.org) Front-End Eğitimi kapsamında yapı
 ```phyton
 print("Welcome Hell")
 ```
-[patika profilim](https://app.patika.dev/aykuttoraman)
+
 
