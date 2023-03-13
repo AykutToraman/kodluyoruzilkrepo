@@ -11,5 +11,5 @@ Bu repo [Kodluyoruz](https:/kodluyoruz.org) Front-End Eğitimi kapsamında yapı
 ```phyton
 print("Welcome Hell")
 ```
-
+[patika profilim](https://app.patika.dev/aykuttoraman)
 
